@@ -4,9 +4,9 @@ I'm a [blogger](https://mrcongliu.com), Software Engineer at [Limbik](https://ww
 
 **I often use:**  
 
-| <img height="28" src="https://github.com/mrcongliu/mrcongliu/raw/master/assets/img/docker.svg">  | <img height="28" src="https://github.com/mrcongliu/mrcongliu/raw/master/assets/img/go.svg"> | <img height="28" src="https://github.com/mrcongliu/mrcongliu/raw/master/assets/img/nodedotjs.svg"> | <img height="28" src="https://github.com/mrcongliu/mrcongliu/raw/master/assets/img/javascript.svg"> | <img height="28" src="https://github.com/mrcongliu/mrcongliu/raw/master/assets/img/gnubash.svg"> | <img height="28" src="https://github.com/mrcongliu/mrcongliu/raw/master/assets/img/python.svg"> | <img height="28" src="https://github.com/mrcongliu/mrcongliu/raw/master/assets/img/php.svg"> |
+| <img height="28" src="https://github.com/mrcongliu/mrcongliu/raw/master/assets/img/docker.svg">  | <img height="28" src="https://github.com/mrcongliu/mrcongliu/raw/master/assets/img/aws.svg"> | <img height="28" src="https://github.com/mrcongliu/mrcongliu/raw/master/assets/img/nodedotjs.svg"> | <img height="28" src="https://github.com/mrcongliu/mrcongliu/raw/master/assets/img/javascript.svg"> | <img height="28" src="https://github.com/mrcongliu/mrcongliu/raw/master/assets/img/gnubash.svg"> | <img height="28" src="https://github.com/mrcongliu/mrcongliu/raw/master/assets/img/python.svg"> | <img height="28" src="https://github.com/mrcongliu/mrcongliu/raw/master/assets/img/terraform.svg"> |
 | :---------------: | :---------------: | :---------------: | :---------------: | :---------------: | :---------------: | :---------------: |
-| Docker  | Go | Node.js | JavaScript | BASH | Python | PHP |
+| Docker  | AWS | Node.js | JavaScript | BASH | Python | Terraform |
 
 
 
