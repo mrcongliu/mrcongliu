@@ -12,9 +12,9 @@ I'm a [blogger](https://mrcongliu.com), Software Engineer at [Limbik](https://ww
 
 And some uncertain languages and tools.
 
-![Su Yang's GitHub stats](https://github-readme-stats.vercel.app/api?username=mrcongliu&theme=gruvbox&show_icons=true&cache_seconds=7200&hide=prs,issues)
+![Cong Liu's GitHub stats](https://github-readme-stats.vercel.app/api?username=mrcongliu&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
 
-![Su Yang's GitHub stats - All Ranks](https://github-profile-trophy.vercel.app/?username=mrcongliu&theme=gruvbox&column=7&margin-w=15&margin-h=15&title=AllSuperRank,MultiLanguage,Stars,Commits,Follower,Issues,PullRequest)
+![Cong Liu's GitHub stats - All Ranks](https://github-profile-trophy.vercel.app/?username=mrcongliu&theme=gruvbox&column=7&margin-w=15&margin-h=15&title=AllSuperRank,MultiLanguage,Stars,Commits,Follower,Issues,PullRequest)
 
 Welcome to follow me [on Twitter](https://twitter.com/mrcongliu).
 
