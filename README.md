@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a [blogger](https://mrcongliu.com), Software Engineer at [Limbik](https://www.limbik.com/), former Testing Engineer at [Amazon Lab126](https://en.wikipedia.org/wiki/Amazon_Lab126).
+I'm a [blogger](https://mrcongliu.com), DevOps Engineer at [OTTO Motors](https://ottomotors.com/), former Software Engineer at [Limbik](https://www.limbik.com/).
 
 **I often use:**  
 
